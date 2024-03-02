@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LewisSimatwa
 - 👀 I’m interested in ... Cloud infrastructure, Cloud security, RPA(Robotic process Automation), Data analysis and ERP systems
-- 🌱 I’m currently learning ... CLoud Infrastucture
+- 🌱 I’m currently learning ... Cloud Infrastucture
 - 💞️ I’m looking to collaborate on ... All projects.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... lewissimatwa@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 LewisSimatwa/LewisSimatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
